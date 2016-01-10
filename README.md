@@ -6,3 +6,5 @@ This is an example change to the readme documentation. - CAME FROM ELSEWHERE TO 
 >> ANOTHER CHANGE TO TRACK.
 
 >>someone's poisoned the water hole! 01/09/2016 7:56pm
+
+>> Change to test the credential helper in CLI
